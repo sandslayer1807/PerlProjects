@@ -1,0 +1,1 @@
+This script pulls down the latest picture of the day from APOD and downloads it to the specified folder, basing the name on the current date.
